@@ -1,5 +1,6 @@
 # PubliCar
 Crear una App Movil llamada PubliCar con funcionamiento en toda ARGENTINA
+
 Resumen
 
 PubliCar es una plataforma de publicidad en autos que conecta a empresas con conductores para mostrar anuncios en sus vehículos. La app permite a las empresas seguir el recorrido de los autos y pagar a los conductores según el km y recorrido realizado o por una cantidad de dias preacordados. Además, los conductores pueden optar por trasladar pasajeros si lo desean.
